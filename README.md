@@ -6,4 +6,4 @@ FEATURES : Fully structured static Amazon home page , no Javascript.Icons used f
 DISCLAIMER : This project is not for commercial use.All product images used belong to Amazon and are used only for educational purposes.
 
 Here's a preview of the Amazon homepage clone
-![Amazonhomepageclone](.amazonclonescreenshot.png)
+![Amazonhomepageclone](./amazonclonescreenshot.png)
